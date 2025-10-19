@@ -1,2 +1,10 @@
-# Vibe-Based-Restaurant-Recommendations-with-Community-Engagement
-Intelligent restaurant recommendation system leveraging user preferences, context, and behavior, with a social layer enabling communities for like-minded foodies and a feedback loop where community interactions enhance AI-driven recommendations.
+# Vibe-Based Restaurant Recommendations with Community Engagement
+
+
+FoodVybe is an intelligent restaurant recommendation platform that aligns food suggestions with user mood and context, recognising that food cravings often reflect individual vibes.
+
+Personalised Recommendations: Suggests meals tailored to mood, local weather conditions, location, and historical behaviour. For example, on a rainy day in Gandhinagar, pakode, chai, or Maggi might be recommended to match typical cravings.
+
+Community Engagement: Supports communities of users with similar dietary habits or food interests, allowing the sharing of reviews, curated lists, and peer-verified recommendations.
+
+Feedback-Driven AI: Community interactions feed back into the recommendation engine, improving relevance, reducing decision fatigue, and enhancing engagement and retention.
