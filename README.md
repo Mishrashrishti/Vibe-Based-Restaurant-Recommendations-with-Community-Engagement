@@ -36,6 +36,10 @@ Every meal tells a story — and now, it can set the mood too! Users can tag the
 <img width="1425" height="888" alt="image" src="https://github.com/user-attachments/assets/bf537081-4469-453f-af36-09c787efe7fd" />
 
 
+Check out the project here: https://taste-mood-link-43146.lovable.app/ 
+
+
+The platform has had a bunch of exciting updates, but there’s still some backend magic to work on. Some images were flagged as duplicates, and a few others require correction. Further refinements and improvements are planned to enhance the platform.
 
 
 
